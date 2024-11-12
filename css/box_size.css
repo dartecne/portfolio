@@ -1,0 +1,24 @@
+div.caja{
+    width:300px;
+    background-color: lime;
+    padding:60px;
+    margin:30px;
+    border:10px solid green;
+}
+
+div.caja2{
+    width:300px;
+    background-color: rgb(100, 20,0);
+    padding:60px;
+    margin:30px;
+    border:10px solid green;
+    box-sizing: border-box;
+}
+
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 10;
+  font-style: normal;
+}
